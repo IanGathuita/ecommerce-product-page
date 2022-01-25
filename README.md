@@ -5,3 +5,6 @@ This project was done as a challenge to implement this designn -> https://www.fr
 
 
 and here is the mobile's:
+
+![mobile layout](https://user-images.githubusercontent.com/50831617/150927824-2b849c61-0fe2-4679-bbed-36987545cb7f.jpg)
+
