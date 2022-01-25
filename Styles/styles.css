@@ -90,12 +90,16 @@ main{
 }
 .previous-icon{
     background-image: url("../Images/icon-previous.svg");
-    
+    position: absolute;
+    top:15%;
+    left: 10%;   
 
 }
 .next-icon{
     background-image: url("../Images/icon-next.svg");
-    
+    position: absolute;
+    top:15%;
+    right: 10%;
 }
 .previous-sorrounded-arrow{
     position: absolute;
